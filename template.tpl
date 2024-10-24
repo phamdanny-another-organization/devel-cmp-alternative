@@ -78,7 +78,7 @@ ___VENDOR_DETAILS___
   "vendorType": "CMP",
   "vendorName": "Devel CMP",
   "description": "Streamline consent collection, storage, and management for user research and testing. This is actually the alternative.",
-  "homepageUrl": "https://devel-cmp.donotexists.com/",
+  "homepageUrl": "https://devel-cmp.com/alternative",
   "freeTrial": "Consent chaos, begone! 14-day free trial awaits.",
   "countries": "AT, BE, BG, HR, CY, CZ, DK, EE, FI, FR, DE, GR, HU, IE, IT, LV",
   "languages": ["EN", "ES", "FR", "DE"],
