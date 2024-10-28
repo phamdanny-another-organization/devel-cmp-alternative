@@ -2,6 +2,8 @@ homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
   # Latest version
+  - sha: 4ea3fe2364acacc27a2a10f7f435c137b43748ae
+    changeNotes: Updated name.
   - sha: b25b285693e0d4a1bc68e9cdf55b183a9f835650
     changeNotes: Updated the homepage url.
   - sha: fd640500caa29275b2ce585919ec08bb8092fc6e
