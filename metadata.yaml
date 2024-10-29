@@ -2,6 +2,8 @@ homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
   # Latest version
+  - sha: 0dce27a831481c90d4f5031b2366b401a7ef8b9a
+    changeNotes: Added comments to code to trigger update.
   - sha: 4ea3fe2364acacc27a2a10f7f435c137b43748ae
     changeNotes: Updated name.
   - sha: b25b285693e0d4a1bc68e9cdf55b183a9f835650
