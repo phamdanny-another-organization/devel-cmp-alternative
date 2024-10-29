@@ -1,6 +1,8 @@
 homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
+  - sha: e9230565507bf7daf1ea6bcf001f26ff104df77d
+    changeNotes: Updated the icon.
   - sha: 1f06906568495c9df5a16b8c503a88a2efc28e9e
     changeNotes: Updated CMP name and logo.
   - sha: 0dce27a831481c90d4f5031b2366b401a7ef8b9a
