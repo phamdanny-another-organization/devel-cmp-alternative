@@ -1,7 +1,8 @@
 homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
-  # Latest version
+  - sha: 1f06906568495c9df5a16b8c503a88a2efc28e9e
+    changeNotes: Updated CMP name and logo.
   - sha: 0dce27a831481c90d4f5031b2366b401a7ef8b9a
     changeNotes: Added comments to code to trigger update.
   - sha: 4ea3fe2364acacc27a2a10f7f435c137b43748ae
@@ -10,6 +11,5 @@ versions:
     changeNotes: Updated the homepage url.
   - sha: fd640500caa29275b2ce585919ec08bb8092fc6e
     changeNotes: Updated logo.
-  # Older versions
   - sha: 63c86ad1672a3a2086e7443f76de66f0c730f555
     changeNotes: Added the initial CMP.
