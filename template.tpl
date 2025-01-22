@@ -47,7 +47,6 @@ const log = require('logToConsole');
 log('data =', data);
 
 // Call data.gtmOnSuccess when the tag is finished.
-// Added a comment to trigger update.
 data.gtmOnSuccess();
 
 
