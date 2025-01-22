@@ -2,6 +2,8 @@ homepage: "https://devel-cmp.donotexists.com/"
 documentation: "https://devel-cmp.donotexists.com/documentation"
 versions:
   # Latest version
+  - sha: 7df9cfdf500e08cc4655c70ef0b5c23ec8025249
+    changeNotes: Removed comment to trigger update.
   - sha: e9230565507bf7daf1ea6bcf001f26ff104df77d
     changeNotes: Updated the icon.
   # Older versions
